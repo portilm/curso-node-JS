@@ -1,0 +1,23 @@
+{
+  "name": "curso",
+  "version": "1.0.0",
+  "description": "curso 2018",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/portilm/curso-node-JS.git"
+  },
+  "author": "Mario Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/portilm/curso-node-JS/issues"
+  },
+  "homepage": "https://github.com/portilm/curso-node-JS#readme",
+  "dependencies": {
+    "hapi": "^17.7.0"
+  }
+}
